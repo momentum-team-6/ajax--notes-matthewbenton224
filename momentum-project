@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currently In Stock</title>
+</head>
+<body>
+  <h1>Wild Hyacinth</h1>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Fwild-hyacinth.jpg?1524172509839">
+    <p>This bulbflower naturalizes well in gardens. The bulb grows best in well-drained soil high in humus. It will grow in lightly shaded forest areas and on rocky outcrops as well as in open meadows or prairies. Additionally it is found growing alongside streams and rivers. The plants may be divided in autumn after the leaves have withered. Bulbs should be planted in the autumn. Additionally the plant spreads by seed rather than by runners.
+    
+    </p>
+
+  <h2>Lily of the Valley</h2>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Flily-of-the-valley.jpg?1524172509333">
+    <p>With its deeply fragrant flowers -- scallop-edge bells that dangle above bright emerald-green leaves -- this nearly deer-proof shade lover appears to be delicate in an old-fashioned way. But the pretty plant is also an intrepid wanderer, spreading readily and rapidly, and anyone who gardens in a small space will want to watch this perennial to make sure it stays in bounds. Tolerates shade well. Warning: this plant is poisonous.
+
+    </p>
+  <h3>Crown Impreials</h3>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Fcrown-imperials.jpg?1524172509466">
+    <p>Crown imperials are strong-growing bulbous plants, making rapid growth in the spring, flowering during April/early May and dying down in early summer. Best in raised beds or planters. Does not tolerate shade; needs a warm, sunny position where it can be left undisturbed for many years.
+
+    </p>
+  <h4>Persian Buttercup</h4>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Fpersian-buttercup.jpg?1524172509630">
+    <p>This species of buttercup can get up to 2 feet tall and has large showy blooms in a variety of colors from May to June. Persian buttercups are most commonly grown from tubers planted in the beginning of spring. Each plant will produce up to 70 blooms in a season. Good for cooler weather; can tolerate light frost.
+
+    </p>
+  <h5>Spring Starflower</h5>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Fspring-starflower.jpg?1524172509548">
+    <p>These charming little blooming plants hail from Argentina and Uruguay and form dense clumps of perennial flowers to chase the winter doldrums away. These flowers spring from fall planted bulbs. They can get up to half a foot tall with a similar spread. Each bulb will produce numerous flowering stems with slender, deeply green foliage. Blooms are fragrant and star shaped with six blue or white petals.
+
+    </p>
+  <h6>Tulips</h6>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Ftulips.jpg?1524172509686">
+    <p>We have a wide variety of tulips in many colors. Plant tulip bulbs in the fall, 6 to 8 weeks before a hard frost is expected and when soils are below 60 degrees F.
+
+    </p>
+
+</body>
+</html>

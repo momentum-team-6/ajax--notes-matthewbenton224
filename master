@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lazy River Nursery and Garden Supply</title>
+  </head>
+  <body>
+    
+  <body>
+  <h1>Lazy River Nursery and Garden Supply</h1>
+    <img src= "https://cdn.glitch.com/ed07e5ca-f8c4-42f4-9b64-980ded726064%2Fstore-interior.jpg?1524172509943">
+    <nav>
+      <a href= "index.html">Home</a>
+      
+      <a href= "currentlyinstock.html">In Stock</a>
+      
+      <a href= "hoursandlocation.html">Hours and Location</a>
+    </nav>
+
+    <p>Lazy River Nursery and Garden Supply has been serving the garden needs of the Tri-State area since 1976. We have supplies for everyone from the small hobby gardener to landscaping contractors.
+
+        At Lazy River, our staff are knowledgable about horticulture and can give you expert advice. We have very low turnover, so you can feel confident knowing that we'll remember your gardening needs and can help you manage your garden for years to come.
+        
+        Always friendly, always affordable, always green - that's the Lazy River Way!
+
+    </p>
+  </body>
+</html>
