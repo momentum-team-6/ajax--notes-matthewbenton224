@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 2px;
+    background: #85929E;
+    font-family: monospace;
+    text-align: center;
+    margin-block-start: 5px,
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    display: flex;
+}
+
+.reminders-writing-container {
+    display: grid;
+    height: auto;
+    grid-template-rows: repeat (6, 1fr);
+    width: 100%;
+    max-width: 800px;
+    margin-left: 5%;
+}
+
+.reminders {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid;
+    background: #E74C3C;
+    border: none;
+    border-radius: 5%;
+}
+
+.reminders-title-field {
+    display: flex;
+    padding: 1rem;
+    align-items: stretch;
+    height: 300px;
+    width: 100%;
+    grid-row: 2/2;
+    background: #ffffff;
+    color: black;
+    font-size: 200%;
+}
+
+.reminders-body-field {
+    display: flex;
+    padding: 1rem;
+    align-items: stretch;
+    height: 100%;
+    width: 100%;
+    grid-row: 3/3;
+    background: #ffffff;
+    border: none;
+    color: black;
+    font-size: 100%;
+}
+
+.date-stamp {
+    display: flex;
+    padding: 1rem;
+    align-items: stretch;
+    height: 100px;
+    width: 100%;
+    grid-row: 5/5;
+    background: #CAB6A7;
+    color: #ffffff;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.submit-button {
+    display: flex;
+    padding: 1rem;
+    align-items: stretch;
+    height: auto;
+    width: 100%;
+    grid-row: 6/6;
+    justify-content: center;
+    align-items: center;
+    border-style: double blue;
+    background: #3498DB;
+}
+
+.update-button {
+    margin: 5px;
+    background: #76439B;
+    border-radius: 5%;
+}
+
+.saved-reminders-title-text {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.title {
+    background: #76439B;
+}
+
+.delete-button {
+    margin: 5px;
+    background: #76439B;
+    border-radius: 5%;
+}
+
+.saved-reminders-container {
+    background: #76439B;
+    border-style: groove;
+}
+
+.saved-reminders-cards {
+    border-style: groove;
+    background-color:cadetblue;
+}
+
+.reminder {
+    display: grid;
+}

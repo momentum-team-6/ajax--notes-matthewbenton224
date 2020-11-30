@@ -4,9 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Notes</title>
+  <link rel="stylesheet" href="main.css">
+  <script src="moments.min.js" defer></script>
+  <script src="script.js" defer></script>
+  <title>Reminders</title>
 </head>
 <body>
-  
+  <h1>Reminders</h1>
+<div class="main-container" id="main-container">
+  <div class="saved-reminders" id="saved-reminders-container">
+    <div class="saved-reminders-title">
+      <h2 class="saved-reminders-title-text">Saved Reminders</h2>
+  </div>
+    <section class="saved-reminders-cards" id="saved-reminders-cards">
+    <div class="saved-reminders-list" id="saved-reminders-list"></div>
+    </section>
+  </div>
+  <form class="reminders-writing-container" id="reminders-writing-container">
+    <input class="reminders-title-field" id="reminders-title" type="text" placeholder="REMINDER">
+    <textarea class="reminders-body-field" id="reminders-body" type="text" placeholder="What do you need to remember?" cols="30" rows="10"></textarea>
+    <button id="submit-button" class="submit-button" type="submit">Create Reminder</button>
+  </div>
+  </form>
+</div>
 </body>
 </html>
